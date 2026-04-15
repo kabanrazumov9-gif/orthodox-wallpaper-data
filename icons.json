@@ -2,26 +2,36 @@
   {
     "date": "04-14",
     "title": "St. Martin the Confessor",
-    "image_name": "st_martin.jpg"
+    "image_name": "st_martin.jpg",
+    "prayer": "O Holy Martin, faithful confessor of Christ, intercede with the merciful God that our souls may be granted forgiveness and steadfastness in the true faith.",
+    "life": "Saint Martin the Confessor, Pope of Rome, courageously defended the Orthodox teaching against heresy. For his unwavering confession of the faith, he endured exile and suffering, remaining faithful to Christ until the end."
   },
   {
     "date": "04-15",
     "title": "St. Aristarchus",
-    "image_name": "st_aristarchus.jpg"
+    "image_name": "st_aristarchus.jpg",
+    "prayer": "O Holy Apostle Aristarchus, pray to Christ our God that we may walk in faith and be granted mercy on the day of judgment.",
+    "life": "Saint Aristarchus was a companion of the Apostle Paul and one of the Seventy Apostles. He labored tirelessly in spreading the Gospel and endured hardships for the sake of Christ."
   },
   {
     "date": "04-16",
     "title": "St. Agapia",
-    "image_name": "st_agapia.jpg"
+    "image_name": "st_agapia.jpg",
+    "prayer": "O Holy Martyr Agapia, intercede for us, that we may be strengthened in love and remain faithful in times of trial.",
+    "life": "Saint Agapia was among the early Christian martyrs who suffered for her unwavering devotion to Christ. Through her courage and love for God, she bore witness to the truth of the Gospel even unto death."
   },
   {
     "date": "04-17",
     "title": "St. Simeon of Persia",
-    "image_name": "st_simeon.jpg"
+    "image_name": "st_simeon.jpg",
+    "prayer": "O Holy Hieromartyr Simeon, pray for us, that we may stand firm in the faith and not waver under trials.",
+    "life": "Saint Simeon of Persia was a bishop who suffered martyrdom during the persecution of Christians under the Persian king. He remained steadfast in his confession of Christ, inspiring many by his courage."
   },
   {
     "date": "04-18",
     "title": "St. John the Culm-dweller",
-    "image_name": "st_john.jpg"
+    "image_name": "st_john.jpg",
+    "prayer": "O Venerable Father John, intercede for us, that we may seek humility and a life of prayer.",
+    "life": "Saint John the Culm-dweller lived a life of asceticism and solitude, dedicating himself to prayer and spiritual struggle. His life serves as an example of humility and devotion to God."
   }
 ]
