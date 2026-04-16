@@ -1,37 +1,112 @@
 [
   {
     "date": "04-14",
-    "title": "St. Martin the Confessor",
+    "title": {
+      "en": "St. Martin the Confessor",
+      "ru": "Святитель Мартин Исповедник",
+      "sr": "Свети Мартин Исповедник",
+      "ro": "Sfântul Martin Mărturisitorul"
+    },
     "image_name": "st_martin.jpg",
-    "prayer": "O Holy Martin, faithful confessor of Christ, intercede with the merciful God that our souls may be granted forgiveness and steadfastness in the true faith.",
-    "life": "Saint Martin the Confessor, Pope of Rome, courageously defended the Orthodox teaching against heresy. For his unwavering confession of the faith, he endured exile and suffering, remaining faithful to Christ until the end."
+    "prayer": {
+      "en": "O Holy Martin, faithful confessor of Christ, intercede with the merciful God that our souls may be granted forgiveness and steadfastness in the true faith.",
+      "ru": "О святителю Мартине, верный исповедниче Христов, моли милостивого Бога о прощении грехов наших и укреплении в истинной вере.",
+      "sr": "О свети Мартине, верни исповедниче Христов, моли милостивог Бога да нам дарује опроштај грехова и утврђење у правој вери.",
+      "ro": "O Sfinte Martine, mărturisitor credincios al lui Hristos, roagă-te lui Dumnezeu cel milostiv să ne dăruiască iertarea păcatelor și întărire în dreapta credință."
+    },
+    "life": {
+      "en": "Saint Martin the Confessor, Pope of Rome, courageously defended the Orthodox teaching against heresy. For his unwavering confession of the faith, he endured exile and suffering, remaining faithful to Christ until the end.",
+      "ru": "Святитель Мартин, папа Римский, мужественно защищал православное учение от ересей. За свое твердое исповедание веры он претерпел изгнание и страдания, оставаясь верным Христу до конца.",
+      "sr": "Свети Мартин, папа римски, храбро је бранио православно учење од јереси. Због свог чврстог исповедања вере претрпео је прогонство и страдања, остајући веран Христу до краја.",
+      "ro": "Sfântul Martin Mărturisitorul, episcop al Romei, a apărat cu curaj învățătura ortodoxă împotriva ereziilor. Pentru mărturisirea sa neclintită a credinței, a suferit exil și chinuri, rămânând credincios lui Hristos până la sfârșit."
+    }
   },
   {
     "date": "04-15",
-    "title": "St. Aristarchus",
+    "title": {
+      "en": "St. Aristarchus",
+      "ru": "Апостол Аристарх",
+      "sr": "Апостол Аристарх",
+      "ro": "Sfântul Apostol Aristarh"
+    },
     "image_name": "st_aristarchus.jpg",
-    "prayer": "O Holy Apostle Aristarchus, pray to Christ our God that we may walk in faith and be granted mercy on the day of judgment.",
-    "life": "Saint Aristarchus was a companion of the Apostle Paul and one of the Seventy Apostles. He labored tirelessly in spreading the Gospel and endured hardships for the sake of Christ."
+    "prayer": {
+      "en": "O Holy Apostle Aristarchus, pray to Christ our God that we may walk in faith and be granted mercy on the day of judgment.",
+      "ru": "О святой апостоле Аристархе, моли Христа Бога, да ходим в вере и обрящем милость в день суда.",
+      "sr": "О свети апостоле Аристархе, моли Христа Бога да ходимо у вери и задобијемо милост на дан суда.",
+      "ro": "O Sfinte Apostole Aristarh, roagă-te lui Hristos Dumnezeu să umblăm în credință și să dobândim milă în ziua judecății."
+    },
+    "life": {
+      "en": "Saint Aristarchus was a companion of the Apostle Paul and one of the Seventy Apostles. He labored tirelessly in spreading the Gospel and endured hardships for the sake of Christ.",
+      "ru": "Святой Аристарх был спутником апостола Павла и одним из семидесяти апостолов. Он неустанно трудился в проповеди Евангелия и переносил лишения ради Христа.",
+      "sr": "Свети Аристарх био је сапутник апостола Павла и један од седамдесет апостола. Неуморно је проповедао Јеванђеље и подносио страдања ради Христа.",
+      "ro": "Sfântul Aristarh a fost însoțitor al Apostolului Pavel și unul dintre cei șaptezeci de apostoli. A lucrat neobosit la răspândirea Evangheliei și a îndurat suferințe pentru Hristos."
+    }
   },
   {
     "date": "04-16",
-    "title": "St. Agapia",
+    "title": {
+      "en": "St. Agapia",
+      "ru": "Святая Агапия",
+      "sr": "Света Агапија",
+      "ro": "Sfânta Agapia"
+    },
     "image_name": "st_agapia.jpg",
-    "prayer": "O Holy Martyr Agapia, intercede for us, that we may be strengthened in love and remain faithful in times of trial.",
-    "life": "Saint Agapia was among the early Christian martyrs who suffered for her unwavering devotion to Christ. Through her courage and love for God, she bore witness to the truth of the Gospel even unto death."
+    "prayer": {
+      "en": "O Holy Martyr Agapia, intercede for us, that we may be strengthened in love and remain faithful in times of trial.",
+      "ru": "О святая мученице Агапия, моли за нас, да укрепимся в любви и пребудем верны в испытаниях.",
+      "sr": "О света мученице Агапијо, моли за нас да се утврдимо у љубави и останемо верни у искушењима.",
+      "ro": "O Sfântă Muceniță Agapia, roagă-te pentru noi să ne întărim în dragoste și să rămânem credincioși în încercări."
+    },
+    "life": {
+      "en": "Saint Agapia was among the early Christian martyrs who suffered for her unwavering devotion to Christ. Through her courage and love for God, she bore witness to the truth of the Gospel even unto death.",
+      "ru": "Святая Агапия была среди ранних христианских мучениц, пострадавших за свою непоколебимую преданность Христу. Своим мужеством она засвидетельствовала истину Евангелия до самой смерти.",
+      "sr": "Света Агапија била је међу раним хришћанским мученицама које су страдале за своју верност Христу. Својом храброшћу посведочила је истину Јеванђеља до смрти.",
+      "ro": "Sfânta Agapia a fost una dintre mucenițele timpurii care au suferit pentru credința lor neclintită în Hristos. Prin curajul ei, a mărturisit adevărul Evangheliei până la moarte."
+    }
   },
   {
     "date": "04-17",
-    "title": "St. Simeon of Persia",
+    "title": {
+      "en": "St. Simeon of Persia",
+      "ru": "Священномученик Симеон Персидский",
+      "sr": "Свети свештеномученик Симеон Персијски",
+      "ro": "Sfântul Sfințit Mucenic Simeon din Persia"
+    },
     "image_name": "st_simeon.jpg",
-    "prayer": "O Holy Hieromartyr Simeon, pray for us, that we may stand firm in the faith and not waver under trials.",
-    "life": "Saint Simeon of Persia was a bishop who suffered martyrdom during the persecution of Christians under the Persian king. He remained steadfast in his confession of Christ, inspiring many by his courage."
+    "prayer": {
+      "en": "O Holy Hieromartyr Simeon, pray for us, that we may stand firm in the faith and not waver under trials.",
+      "ru": "О священномучениче Симеоне, моли за нас, да стоим твердо в вере и не поколеблемся в испытаниях.",
+      "sr": "О свети свештеномучениче Симеоне, моли за нас да чврсто стојимо у вери и не поколебамо се у искушењима.",
+      "ro": "O Sfinte Sfințite Mucenice Simeon, roagă-te pentru noi să rămânem statornici în credință și neclintiți în încercări."
+    },
+    "life": {
+      "en": "Saint Simeon of Persia was a bishop who suffered martyrdom during the persecution of Christians under the Persian king. He remained steadfast in his confession of Christ, inspiring many by his courage.",
+      "ru": "Святой Симеон Персидский был епископом, принявшим мученическую смерть во время гонений на христиан. Он остался твердым в исповедании Христа, вдохновляя многих своим мужеством.",
+      "sr": "Свети Симеон Персијски био је епископ који је пострадао током гоњења хришћана. Остао је непоколебив у исповедању Христа и надахњивао многе својом храброшћу.",
+      "ro": "Sfântul Simeon din Persia a fost episcop și a suferit moarte martirică în timpul persecuțiilor. A rămas statornic în mărturisirea lui Hristos, inspirând pe mulți prin curajul său."
+    }
   },
   {
     "date": "04-18",
-    "title": "St. John the Culm-dweller",
+    "title": {
+      "en": "St. John the Culm-dweller",
+      "ru": "Преподобный Иоанн Пустынник",
+      "sr": "Преподобни Јован Пустиножитељ",
+      "ro": "Sfântul Ioan Pustnicul"
+    },
     "image_name": "st_john.jpg",
-    "prayer": "O Venerable Father John, intercede for us, that we may seek humility and a life of prayer.",
-    "life": "Saint John the Culm-dweller lived a life of asceticism and solitude, dedicating himself to prayer and spiritual struggle. His life serves as an example of humility and devotion to God."
+    "prayer": {
+      "en": "O Venerable Father John, intercede for us, that we may seek humility and a life of prayer.",
+      "ru": "О преподобный отче Иоанне, моли за нас, да стремимся к смирению и молитвенной жизни.",
+      "sr": "О преподобни оче Јоване, моли за нас да тражимо смирење и живот у молитви.",
+      "ro": "O Cuvioase Părinte Ioan, roagă-te pentru noi să căutăm smerenia și viața de rugăciune."
+    },
+    "life": {
+      "en": "Saint John the Culm-dweller lived a life of asceticism and solitude, dedicating himself to prayer and spiritual struggle. His life serves as an example of humility and devotion to God.",
+      "ru": "Преподобный Иоанн жил в уединении и подвиге, посвятив себя молитве и духовной борьбе. Его жизнь является примером смирения и преданности Богу.",
+      "sr": "Преподобни Јован живео је у подвигу и усамљености, посветивши се молитви и духовној борби. Његов живот је пример смирења и преданости Богу.",
+      "ro": "Sfântul Ioan Pustnicul a trăit în asceză și singurătate, dedicându-se rugăciunii și nevoinței duhovnicești. Viața sa este un exemplu de smerenie și devotament față de Dumnezeu."
+    }
   }
 ]
